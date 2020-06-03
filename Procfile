@@ -1,0 +1,1 @@
+web: gunicorn ml_server:app && streamlit run app.py
