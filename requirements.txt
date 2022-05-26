@@ -4,4 +4,4 @@ requests==2.23.0
 streamlit==0.60.0
 numpy==1.18.1
 setuptools==41.0.0
-tensorflow==2.1.0
+tensorflow==2.7.2
